@@ -51,7 +51,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.13.3",
+    "@modelcontextprotocol/sdk": "^1.22.0",
     "@types/node": "^24.0.10",
     "@types/shell-quote": "^1.7.5",
     "parse-help": "^2.0.0",
